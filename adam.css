@@ -1,0 +1,66 @@
+
+body { 
+		background: ivory;
+		font-size: 16pt;
+		margin-top: 20px;
+		margin-bottom: 20px;
+		margin-left: 20px;
+		margin-right: 30px;}
+
+
+
+.contact { 
+		border: solid 5px gray;
+		margin-bottom: 10px; background: gold;
+		text-align: center}
+
+
+.photo1 {
+			border: solid 10px gray; 
+			background: gold;
+			height: 200px;
+			width: 300px;
+			padding: 10px;
+			margin-right: 10px;
+			margin-left: 10px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			text-align: left;
+		}
+		
+.photo2 {
+			border: solid 10px gray; 
+			background: gold;
+			height: 225px;
+			width: 300px;
+			padding: 10px;
+			margin-right: 10px;
+			margin-left: 10px;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			text-align: left;
+		}		
+
+
+h1.title {
+			font-size: 46pt;
+			font-variant: small-caps;
+			font-weight: bold;
+			text-align:center;
+			margin-top: 15px;
+			margin-bottom: 0px; 
+		}
+ul { margin:0px; padding:0; list-style: none }
+li { margin-left:40px; margin-bottom:40px; padding:0;  }	
+	
+.style1 {margin-right: 38px;}		
+
+#header { background:gold; padding:5px 10px;  }
+
+.whiteheader { background:ivory; padding:5px 10px; }
+
+#left_sidebar { background:gold; float:left; width:425px; padding:50px; margin-right:25px;}
+	
+
+#nav { background:gray; padding:10px; text-align:center; }
+#nav li  { display: inline; list-style-type: none; padding-right: 15px; font-size: 18pt; font-weight:normal; font-variant:small-caps;}		
